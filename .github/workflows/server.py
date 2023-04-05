@@ -22,5 +22,3 @@ while True:
 	print('Data from MicroPython: ',data)
 	client.send('received your messages.'.encode('utf-8'))
 	client.close()
-
-          echo test, and deploy your project.
